@@ -1,2 +1,2 @@
 # demo - App
-> Business Application
+> SAP CAP application demo
