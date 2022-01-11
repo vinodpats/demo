@@ -1,2 +1,2 @@
-# demo
-DevOps demo application
+# demo - App
+> Business Application
