@@ -63,7 +63,6 @@ module.exports = cds.service.impl(async function () {
 
 
 
-
     this.on('READ', Asteroids, async (req) => {
         try {
             const tx = NeoWs.transaction(req);
